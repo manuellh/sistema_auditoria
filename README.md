@@ -15,14 +15,16 @@ Sistema especifico para el control de la auditoria final para la entrega de prod
 ![Alt text](https://i.pinimg.com/originals/09/7f/28/097f28b9b779003af587f31559ee59bd.jpg?raw=true "DashBoard")
 
 ### Seccion de clientes
-![image](https://user-images.githubusercontent.com/90405172/136980164-919ac39c-9174-4b46-8508-6024306021e9.png)
+![image](https://user-images.githubusercontent.com/90405172/136983605-f34bd244-7b2e-4e55-b310-259fccbf40d6.png)
 
 ### Seccion de registro de producto
-![image](https://user-images.githubusercontent.com/90405172/136980465-475424e2-b4a0-4721-9f0a-b032770b6767.png)
+![image](https://user-images.githubusercontent.com/90405172/136983857-81ef3995-26c3-4ec3-9bf2-f1caf5f063ac.png)
 
 ### Seccion de auditoria
-![image](https://user-images.githubusercontent.com/90405172/136980365-93480c2c-aca3-4515-9687-a0c066d0f44c.png)
-
-![image](https://user-images.githubusercontent.com/90405172/136980374-30dee12b-1926-4d6f-936a-84038aeb92bf.png)
+![image](https://user-images.githubusercontent.com/90405172/136984097-4e8294aa-f72a-46cb-9594-81a3eec775cb.png)
 
 ### Seccion de embarques
+![embarques](https://user-images.githubusercontent.com/90405172/136983188-0c43edd8-0160-4ffb-82dc-28d385da2e72.jpg)
+
+### Seccion de trabajadores de almacen
+![image](https://user-images.githubusercontent.com/90405172/136983398-9e1c88de-45ef-49ad-be90-58439dedc33e.png)
